@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+[Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsenz&hide=javascript,css,scss,html&theme=tokyonight)
 
 Here are some ideas to get you started:
 
