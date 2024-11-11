@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**TLSenz/TLSenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 Here are some ideas to get you started:
 
