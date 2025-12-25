@@ -1,7 +1,7 @@
 ## Welcome 
 
-Welcome to my Github.
-I am Thalium or TLSenZ, a SWE Apprentice from Switzerland. I like Coding, Linux and Computers.
+Welcome to my Github
+I am Thalium or TLSenZ, a SWE Apprentice from Switzerland. I like Coding, Linux and Computers. My Profile is very minimal, but i am working on expanding it. In the Futur i plan to start my own Blog. If you have anyhting to tell, give feedback or else, thalium@duck.com is my Email
 
 
 Favorite Linux Distro: Arch
